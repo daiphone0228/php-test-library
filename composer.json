@@ -1,0 +1,23 @@
+{
+    "name": "daiphone0228/test",
+    "type": "library",
+    "require": {
+        "php": "^7.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "@stable"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dai miyahara",
+            "email": "daiphone0228@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Library\\": "src/Library"
+        }
+    }
+}
