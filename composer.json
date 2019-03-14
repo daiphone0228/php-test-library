@@ -2,7 +2,7 @@
     "name": "daiphone0228/php-test-library",
     "type": "library",
     "require": {
-        "php": "^7.3"
+        "php": "^7.0"
     },
     "require-dev": {
         "phpunit/phpunit": "@stable"
